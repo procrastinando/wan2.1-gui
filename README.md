@@ -19,7 +19,7 @@ This script provides a user-friendly web interface using Gradio to run the Wan2.
     *   `Performance`: Fastest, highest resource usage.
     *   `Balanced (Save VRAM)`: Offloads main model (saves VRAM, uses moderate RAM).
     *   `Max VRAM Saving`: Offloads main model and T5 encoder (lowest VRAM, potentially high RAM, slowest).
-    *   `Max RAM Saving (Colab Focus)`: Offloads main model, keeps T5 on GPU (attempts to save System RAM, **reduce frame count significantly**).
+    *   `Max RAM Saving`: Offloads main model, keeps T5 on GPU (attempts to save System RAM, **reduce frame count significantly**).
 *   **Automatic Model Downloading:** Downloads the required Wan2.1 models from Hugging Face automatically on first use if not found locally.
 *   **Parameter Control:** Adjust common generation settings like prompt, negative prompt, resolution, number of frames, guidance scale, etc.
 *   **Prompt Extension (Optional):** Supports using local Qwen models or Dashscope API for prompt enhancement.
