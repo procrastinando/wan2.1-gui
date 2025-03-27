@@ -90,6 +90,8 @@ These instructions assume you have `git` and a Python environment manager like `
     ```
 4.  **Access the UI:** The script will print URLs to the console. Open the local URL (usually `http://127.0.0.1:7860`) or the public Gradio URL (if sharing) in your web browser.
 
+![image](https://github.com/user-attachments/assets/67363f41-10a2-44c5-a9cf-7266bc0aa954)
+
 ## Troubleshooting / Notes
 
 *   **Model Downloads:** The first time you select a specific model (e.g., 1.3B or 14B), it will be downloaded automatically. This can take significant time and disk space (~20-60GB per model size).
@@ -107,4 +109,4 @@ The underlying Wan2.1 models and code are licensed under the Apache 2.0 License.
 
 *   The Wan2.1 Team for creating and open-sourcing the models and inference code.
 *   The Gradio team for the easy-to-use UI library.
-![image](https://github.com/user-attachments/assets/67363f41-10a2-44c5-a9cf-7266bc0aa954)
+
