@@ -107,3 +107,4 @@ The underlying Wan2.1 models and code are licensed under the Apache 2.0 License.
 
 *   The Wan2.1 Team for creating and open-sourcing the models and inference code.
 *   The Gradio team for the easy-to-use UI library.
+![image](https://github.com/user-attachments/assets/67363f41-10a2-44c5-a9cf-7266bc0aa954)
